@@ -21,11 +21,6 @@ Each write-up includes:
 - **Beginners** learning ethical hacking and penetration testing.
 - **CTF Enthusiasts** looking for walkthroughs of real-world challenges.
 - **Security Professionals** interested in different hacking methodologies.
-
-## Disclaimer
-
-These write-ups are for educational purposes only. Any actions taken using this information are solely the responsibility of the user. Always obtain proper authorization before testing systems.
-
 ---
 
 Happy Hacking! 🛡️
