@@ -1,4 +1,31 @@
 # CTF-Writeups
+
 Write-ups for TryHackMe and Hack The Box challenges
 
-This repo contains a collection of write-ups for various TryHackMe and Hack The Box (HTB) rooms and challenges. This repository serves as a personal archive and learning resource for exploring cybersecurity concepts, techniques, and methodologies. Each write-up details the steps taken to complete the rooms, from initial enumeration to exploiting vulnerabilities and gaining root access, with code snippets, screenshots, and explanations. Perfect for those who are learning ethical hacking, as well as anyone looking for a detailed walkthrough of real-world penetration testing challenges.
+## Overview
+
+This repository contains a collection of write-ups for various **TryHackMe** and **Hack The Box (HTB)** rooms and challenges. It serves as a personal archive and learning resource for exploring cybersecurity concepts, techniques, and methodologies.
+
+## What You'll Find
+
+Each write-up includes:
+- **Enumeration**: Identifying open ports, services, and vulnerabilities.
+- **Exploitation**: Gaining access through discovered weaknesses.
+- **Privilege Escalation**: Achieving root/admin access.
+- **Code Snippets**: Relevant commands and scripts used.
+- **Screenshots**: Visual documentation of key steps.
+- **Explanations**: Detailed insights into the attack process.
+
+## Who It's For
+
+- **Beginners** learning ethical hacking and penetration testing.
+- **CTF Enthusiasts** looking for walkthroughs of real-world challenges.
+- **Security Professionals** interested in different hacking methodologies.
+
+## Disclaimer
+
+These write-ups are for educational purposes only. Any actions taken using this information are solely the responsibility of the user. Always obtain proper authorization before testing systems.
+
+---
+
+Happy Hacking! 🛡️
